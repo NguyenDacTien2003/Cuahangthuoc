@@ -1,0 +1,21 @@
+.chua {
+    width: 600px;
+    margin: 0 auto;
+}
+.button_sub {
+    text-decoration: none;
+
+    background-color: blue;
+    color: #fff;
+    padding: 8px 12px;
+}
+table {
+    margin-top: 20px;
+    width: 500px;
+}
+table tr td {
+    border: 1px solid black;
+    padding: 10px;
+}
+a{
+}
